@@ -1,20 +1,20 @@
-# Fixeducation - AI Powered School Management SaaS
+# Educatshala - AI Powered School Management SaaS
 
-Fixeducation is a school management SaaS project I am building for schools, admins, teachers, students, and parents.
+Educatshala is a school management SaaS project I am building for schools, admins, teachers, students, and parents.
 
 The goal is simple: make daily school operations easier by bringing school management, users, roles, authentication, class-section workflows, and future AI automation into one platform.
 
-This repository is not the full production source code. It is a public case-study and proof-of-work repository for hackathon applications, project review, and portfolio presentation. The real product code is kept private because Fixeducation is an active SaaS project.
+This repository is not the full production source code. It is a public case-study and proof-of-work repository for hackathon applications, project review, and portfolio presentation. The real product code is kept private because Educatshala is an active SaaS project.
 
 ## Project Status
 
-Fixeducation is currently under active development. A public live demo is not available yet. This repository is being used to document the idea, product direction, features, roadmap, architecture, and hackathon plan.
+Educatshala is currently under active development. A public live demo is not available yet. This repository is being used to document the idea, product direction, features, roadmap, architecture, and hackathon plan.
 
-## What Problem Fixeducation Solves
+## What Problem Educatshala Solves
 
 Many schools still manage important work manually or through scattered tools. Student records, teacher assignments, notices, admin tasks, login systems, and parent communication often become slow and difficult to track.
 
-Fixeducation is being built to help schools manage these workflows in a structured, role-based, and secure way.
+Educatshala is being built to help schools manage these workflows in a structured, role-based, and secure way.
 
 ## Main Users
 
@@ -59,7 +59,7 @@ Fixeducation is being built to help schools manage these workflows in a structur
 
 ## Hackathon Goal
 
-During the hackathon, I want to use OpenAI Codex to improve Fixeducation, fix bugs, improve code quality, add AI-powered workflows, prepare a demo-ready MVP, and document the product properly.
+During the hackathon, I want to use OpenAI Codex to improve Educatshala, fix bugs, improve code quality, add AI-powered workflows, prepare a demo-ready MVP, and document the product properly.
 
 ## Repository Scope
 
@@ -82,4 +82,4 @@ It does not contain:
 
 ## Status
 
-Fixeducation is currently under active development. Public demo/screenshots will be added when the project is ready to show safely.
+Educatshala is currently under active development. Public demo/screenshots will be added when the project is ready to show safely.
