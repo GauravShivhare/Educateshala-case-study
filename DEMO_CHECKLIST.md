@@ -1,4 +1,4 @@
-# Fixeducation Demo Checklist
+# Educatshala Demo Checklist
 
 This file lists the proof-of-work items that can be added before submitting hackathon applications.
 
@@ -27,7 +27,7 @@ Recommended screenshots:
 
 A short 60-90 second screen recording can explain:
 
-1. What Fixeducation is
+1. What Educatshala is
 2. Which problem it solves for schools
 3. Current screens or local development progress
 4. Planned AI School Admin Assistant
