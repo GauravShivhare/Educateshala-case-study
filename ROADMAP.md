@@ -1,6 +1,6 @@
-# Fixeducation Roadmap
+# Educatshala Roadmap
 
-This roadmap explains how Fixeducation can move from an active development project to a more complete SaaS product for schools.
+This roadmap explains how Educatshala can move from an active development project to a more complete SaaS product for schools.
 
 ## Phase 1 - SaaS Foundation
 
@@ -41,4 +41,4 @@ This roadmap explains how Fixeducation can move from an active development proje
 
 ## Hackathon Focus
 
-The hackathon focus is to use Codex to speed up development, improve code quality, fix bugs, and ship useful AI-powered school workflows inside Fixeducation.
+The hackathon focus is to use Codex to speed up development, improve code quality, fix bugs, and ship useful AI-powered school workflows inside Educatshala.
