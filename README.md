@@ -1,2 +1,85 @@
-# fixeducation-case-study
-Case study and proof-of-work for Fixeducation, an AI-powered school management SaaS.
+# Fixeducation - AI Powered School Management SaaS
+
+Fixeducation is a school management SaaS project I am building for schools, admins, teachers, students, and parents.
+
+The goal is simple: make daily school operations easier by bringing school management, users, roles, authentication, class-section workflows, and future AI automation into one platform.
+
+This repository is not the full production source code. It is a public case-study and proof-of-work repository for hackathon applications, project review, and portfolio presentation. The real product code is kept private because Fixeducation is an active SaaS project.
+
+## Live Demo
+
+Website: https://fixeducation.in/
+
+## What Problem Fixeducation Solves
+
+Many schools still manage important work manually or through scattered tools. Student records, teacher assignments, notices, admin tasks, login systems, and parent communication often become slow and difficult to track.
+
+Fixeducation is being built to help schools manage these workflows in a structured, role-based, and secure way.
+
+## Main Users
+
+- Super Admin
+- School Admin
+- Principal
+- Office Staff
+- Teacher
+- Student
+- Parent
+
+## Current / In-Progress Features
+
+- Role-based login system
+- Email-based authentication direction
+- OTP forgot password flow
+- Super Admin dashboard
+- School management workflow
+- User management workflow
+- Teacher class-section assignment
+- Student management workflow
+- Profile management
+- School-level access separation
+
+## Planned AI Features
+
+- AI School Admin Assistant
+- AI notice and message generator
+- AI student performance summary
+- AI report generator
+- AI support chatbot for school staff
+- AI workflow automation for school operations
+
+## Tech Stack
+
+- PHP
+- MySQL / Supabase workflow experience
+- HTML
+- CSS
+- JavaScript
+- XAMPP for local development
+
+## Hackathon Goal
+
+During the hackathon, I want to use OpenAI Codex to improve Fixeducation, fix bugs, improve code quality, add AI-powered workflows, and ship a stronger MVP for schools.
+
+## Repository Scope
+
+This public repository contains only:
+
+- Product overview
+- Feature documentation
+- Roadmap
+- Architecture summary
+- Hackathon application material
+
+It does not contain:
+
+- Production source code
+- Database credentials
+- Environment files
+- SMTP credentials
+- Admin passwords
+- Private business logic
+
+## Status
+
+Fixeducation is currently under active development.
