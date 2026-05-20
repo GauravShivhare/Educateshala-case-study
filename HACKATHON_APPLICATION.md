@@ -12,18 +12,18 @@ I am building Fixeducation, a school management SaaS with role-based dashboards 
 
 ## What will you build during the hackathon?
 
-During the hackathon, I want to build an AI School Admin Assistant inside Fixeducation. It will help schools generate notices, summarize student records, assist staff with admin tasks, and automate common school workflows. I also want to use Codex to improve code quality, fix bugs, and ship a working MVP.
+During the hackathon, I want to build an AI School Admin Assistant inside Fixeducation. It will help schools generate notices, summarize student records, assist staff with admin tasks, and automate common school workflows. I also want to use Codex to improve code quality, fix bugs, prepare a demo-ready MVP, and document the product properly.
 
 ## Why should we select you?
 
-I am already building a real SaaS product for schools and I want to use this hackathon to make it more production-ready. I am not just submitting an idea; I have already started building the product and want to ship a useful AI-powered version during the hackathon.
+I am already working on a real SaaS product idea for schools and I want to use this hackathon to make it more production-ready. I am not just submitting a random idea; I have started planning and documenting the product and want to ship a useful AI-powered version during the hackathon.
 
 ## Proof of Work
 
-- Website: https://fixeducation.in/
 - GitHub case study: https://github.com/twokallff-sudo/fixeducation-case-study
 - Product type: AI-powered school management SaaS
 - Status: Active development
+- Public live demo: Not available yet
 
 ## Safety Note
 
