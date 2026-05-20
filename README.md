@@ -6,9 +6,9 @@ The goal is simple: make daily school operations easier by bringing school manag
 
 This repository is not the full production source code. It is a public case-study and proof-of-work repository for hackathon applications, project review, and portfolio presentation. The real product code is kept private because Fixeducation is an active SaaS project.
 
-## Live Demo
+## Project Status
 
-Website: https://fixeducation.in/
+Fixeducation is currently under active development. A public live demo is not available yet. This repository is being used to document the idea, product direction, features, roadmap, architecture, and hackathon plan.
 
 ## What Problem Fixeducation Solves
 
@@ -59,7 +59,7 @@ Fixeducation is being built to help schools manage these workflows in a structur
 
 ## Hackathon Goal
 
-During the hackathon, I want to use OpenAI Codex to improve Fixeducation, fix bugs, improve code quality, add AI-powered workflows, and ship a stronger MVP for schools.
+During the hackathon, I want to use OpenAI Codex to improve Fixeducation, fix bugs, improve code quality, add AI-powered workflows, prepare a demo-ready MVP, and document the product properly.
 
 ## Repository Scope
 
@@ -82,4 +82,4 @@ It does not contain:
 
 ## Status
 
-Fixeducation is currently under active development.
+Fixeducation is currently under active development. Public demo/screenshots will be added when the project is ready to show safely.
