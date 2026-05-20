@@ -1,6 +1,6 @@
-# Fixeducation Features
+# Educatshala Features
 
-Fixeducation is being built as a school management SaaS that helps schools handle their daily operations in a more organized way.
+Educatshala is being built as a school management SaaS that helps schools handle their daily operations in a more organized way.
 
 ## Core Product Direction
 
