@@ -20,7 +20,7 @@ I am already working on a real SaaS product idea for schools and I want to use t
 
 ## Proof of Work
 
-- GitHub case study: https://github.com/twokallff-sudo/fixeducation-case-study
+- GitHub case study: https://github.com/twokallff-sudo/Educateshala-case-study
 - Product type: AI-powered school management SaaS
 - Status: Active development
 - Public live demo: Not available yet
