@@ -1,6 +1,6 @@
-# Fixeducation Architecture Overview
+# Educatshala Architecture Overview
 
-Fixeducation is a school management SaaS platform with role-based dashboards and school-level access separation.
+Educatshala is a school management SaaS platform with role-based dashboards and school-level access separation.
 
 ## Product Type
 
