@@ -41,13 +41,9 @@ The current MVP uses Template AI Mode for reliable demo output without external 
 
 ## Demo Video Link
 
-Add the final demo video link here after upload.
+Google Drive folder containing the Day 4 demo walkthrough video:
 
-Recommended upload options:
-
-- Google Drive public/shared link
-- YouTube Unlisted link
-- Loom link
+https://drive.google.com/drive/folders/13ZZSOKpGRwS6laB7Tr4loYVHHDeyveSZ?usp=drive_link
 
 ## Safety Notes
 
