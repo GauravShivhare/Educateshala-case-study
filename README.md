@@ -1,85 +1,149 @@
-# Educatshala - AI Powered School Management SaaS
+# EducateShala — AI-Powered School Management SaaS
 
-Educatshala is a school management SaaS project I am building for schools, admins, teachers, students, and parents.
+EducateShala is a modern school management SaaS built for Indian schools, admins, principals, office staff, teachers, students, and parents.
 
-The goal is simple: make daily school operations easier by bringing school management, users, roles, authentication, class-section workflows, and future AI automation into one platform.
+The product brings daily school operations into one secure, role-based platform: school management, user roles, class-section workflows, student records, attendance, homework, exams, fees, notifications, chat, profile management, and AI-assisted admin work.
 
-This repository is not the full production source code. It is a public case-study and proof-of-work repository for hackathon applications, project review, and portfolio presentation. The real product code is kept private because Educatshala is an active SaaS project.
+> This repository is a public case-study and proof-of-work repository for hackathon submission, project review, and portfolio presentation. The private production source code, credentials, database secrets, SMTP keys, and business-sensitive implementation details are not included.
 
-## Project Status
+## Hackathon Build Story
 
-Educatshala is currently under active development. A public live demo is not available yet. This repository is being used to document the idea, product direction, features, roadmap, architecture, and hackathon plan.
+I had the idea for EducateShala before the hackathon, but the actual demo-ready SaaS MVP work was started after the hackathon began.
 
-## What Problem Educatshala Solves
+During Hackathon Day 1 to Day 3, I focused on turning the idea into a working MVP direction with:
 
-Many schools still manage important work manually or through scattered tools. Student records, teacher assignments, notices, admin tasks, login systems, and parent communication often become slow and difficult to track.
+- A renamed and cleaned EducateShala brand identity
+- Local XAMPP-ready PHP/MySQL setup
+- Role-based dashboard flows
+- School Admin and Super Admin workflows
+- Forgot password / OTP flow direction
+- AI School Admin Assistant MVP
+- Demo-ready UI screens
+- Public case-study documentation
 
-Educatshala is being built to help schools manage these workflows in a structured, role-based, and secure way.
+The goal was not just to make a static concept, but to show a SaaS-style school operating system that can become useful for real schools.
 
-## Main Users
+## Problem
 
-- Super Admin
-- School Admin
-- Principal
-- Office Staff
-- Teacher
-- Student
-- Parent
+Many schools still manage daily operations using scattered tools, paper records, WhatsApp messages, spreadsheets, and manual follow-ups.
 
-## Current / In-Progress Features
+This creates problems like:
 
-- Role-based login system
-- Email-based authentication direction
-- OTP forgot password flow
-- Super Admin dashboard
-- School management workflow
-- User management workflow
-- Teacher class-section assignment
-- Student management workflow
-- Profile management
-- School-level access separation
+- Slow student and staff record management
+- Confusing class-section assignments
+- Manual attendance and fee tracking
+- Delayed parent communication
+- No single dashboard for school operations
+- Difficulty preparing notices, summaries, and reports quickly
 
-## Planned AI Features
+## Solution
 
-- AI School Admin Assistant
-- AI notice and message generator
-- AI student performance summary
-- AI report generator
-- AI support chatbot for school staff
-- AI workflow automation for school operations
+EducateShala gives schools one digital operating system for daily administration.
+
+It helps different roles work in their own scoped dashboards:
+
+- **Super Admin** manages schools, subscriptions, platform-level users, support, reports, and audit logs.
+- **School Admin / Principal** manages students, teachers, classes, sections, subjects, attendance, homework, exams, fees, notices, and reports.
+- **Teacher** manages assigned classes, attendance, homework, marks, messages, and profile.
+- **Office Staff** supports student records, fees, receipts, notices, and reports.
+- **Parents and Students** access attendance, homework, fees, results, notices, messages, and profiles.
+
+## AI School Admin Assistant MVP
+
+The current hackathon demo includes an AI assistant designed for school operations.
+
+The assistant can help generate:
+
+- School notices
+- Student performance summaries
+- Class reports
+- School workflow answers
+- Notification drafts
+
+The AI Assistant is intentionally designed with a safety-first workflow:
+
+- It generates drafts, not automatic sends.
+- Admin reviews output before using it.
+- Generated notice text can be copied, downloaded, or used as a notification draft.
+- Demo mode is clearly labelled when no live AI provider key is configured.
+
+## Demo Screens Covered
+
+The current demo includes screens and flows for:
+
+- School Admin Dashboard
+- AI Notice Generator
+- AI Student Summary
+- AI Class Report
+- Admin Help Chatbot
+- Recent AI History
+- Copy / Download / Use as Notification Draft actions
+- Role-based navigation
+- EducateShala branding
+
+## Core Modules
+
+- Authentication
+- Schools
+- Users
+- Classes
+- Sections
+- Subjects
+- Students
+- Attendance
+- Homework
+- Fees
+- Chat
+- Notifications
+- Exams
+- Marks and Results
+- Profile and Settings
+- AI Assistant
 
 ## Tech Stack
 
-- PHP
-- MySQL / Supabase workflow experience
+- Core PHP
+- MySQL
+- XAMPP local development
 - HTML
 - CSS
 - JavaScript
-- XAMPP for local development
+- JWT-style authentication direction
+- Role-based access control direction
+- Multi-school / school-scoped data model direction
 
-## Hackathon Goal
+## Security and Privacy Scope
 
-During the hackathon, I want to use OpenAI Codex to improve Educatshala, fix bugs, improve code quality, add AI-powered workflows, prepare a demo-ready MVP, and document the product properly.
-
-## Repository Scope
-
-This public repository contains only:
-
-- Product overview
-- Feature documentation
-- Roadmap
-- Architecture summary
-- Hackathon application material
-
-It does not contain:
+This public repository does not include:
 
 - Production source code
-- Database credentials
-- Environment files
+- `.env` files
 - SMTP credentials
+- API keys
+- JWT secrets
+- Database passwords
 - Admin passwords
 - Private business logic
+- Real student data
 
-## Status
+## Current Status
 
-Educatshala is currently under active development. Public demo/screenshots will be added when the project is ready to show safely.
+EducateShala is in active MVP development.
+
+The hackathon focus is to demonstrate a school SaaS product direction with an AI-powered school admin assistant and a realistic role-based workflow.
+
+## Pitch Summary
+
+EducateShala is a school operating system for modern India.
+
+It combines school management workflows with AI-assisted admin productivity so that schools can manage records, communication, attendance, reports, and notices faster from one platform.
+
+## Next Roadmap
+
+- Improve role-wise dashboards
+- Add stronger production hardening
+- Improve mobile parent/student portals
+- Add complete report exports
+- Add AI-assisted workflows for notices, summaries, and reports
+- Prepare staging deployment
+- Expand real school testing
