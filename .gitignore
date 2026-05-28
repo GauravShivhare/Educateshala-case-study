@@ -1,0 +1,42 @@
+# Never publish private app/runtime files in this case-study repository.
+.env
+.env.*
+!.env.example
+
+# Dependencies and local caches
+vendor/
+node_modules/
+.cache/
+cache/
+tmp/
+temp/
+
+# Runtime/private data
+storage/
+uploads/
+logs/
+*.log
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+
+# Local credentials/tokens
+*secret*
+*token*
+*credential*
+*password*
+*.pem
+*.key
+
+# Local video exports should be hosted externally, not committed.
+*.mp4
+*.mov
+*.webm
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.old

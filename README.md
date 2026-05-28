@@ -132,7 +132,11 @@ Recommended screenshots folder:
 EducateShala_Phase1_Screenshots/
 ```
 
----
+Screenshots are available in `EducateShala_Phase1_Screenshots/`.
+
+The pitch deck is available in `pitch-deck/EducateShala_AI-Powered_School_Administration.pdf`.
+
+The demo video is linked externally through the demo assets folder and/or `DEMO.md`. The MP4 is intentionally not committed to GitHub.
 
 ## Core Modules
 
@@ -238,6 +242,8 @@ This public repository does not include:
 - Real student data
 - Database dumps
 - Full private app ZIP files
+- Local video exports
+- Dependency folders such as `vendor/` or `node_modules/`
 
 ---
 

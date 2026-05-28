@@ -61,9 +61,9 @@ This public repository is used for case-study, proof-of-work, pitch, screenshots
 Use these assets for hackathon review:
 
 - Public GitHub case-study repository
-- Product screenshots
-- Demo walkthrough video link
-- Pitch deck
+- Product screenshots: `EducateShala_Phase1_Screenshots/`
+- Demo walkthrough video link: placeholder until uploaded to Google Drive, YouTube Unlisted, or Loom
+- Pitch deck: `pitch-deck/EducateShala_AI-Powered_School_Administration.pdf`
 - Product brief
 - User flow diagram
 - Tech stack and feature documentation
@@ -75,3 +75,5 @@ https://github.com/GauravShivhare/Educateshala-case-study
 ## Demo Video
 
 Add demo video link here after uploading to Google Drive, YouTube Unlisted, Loom, or another shareable platform.
+
+Do not upload the MP4 directly to GitHub.

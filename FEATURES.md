@@ -1,6 +1,6 @@
-# Educatshala Features
+# EducateShala Features
 
-Educatshala is being built as a school management SaaS that helps schools handle their daily operations in a more organized way.
+EducateShala is being built as a school management SaaS that helps schools handle their daily operations in a more organized way.
 
 ## Core Product Direction
 
@@ -10,7 +10,7 @@ The product focuses on role-based school workflows. Each user should see only th
 
 ### Authentication
 
-- Email-based login direction
+- UID/password login direction
 - OTP forgot password flow
 - Role-based access after login
 - Profile management
@@ -41,7 +41,7 @@ The product focuses on role-based school workflows. Each user should see only th
 - Teachers can work only with assigned class/section students
 - Student management workflow
 
-## Planned AI Features
+## AI Assistant MVP Features
 
 ### AI School Admin Assistant
 
@@ -63,6 +63,13 @@ Generate school-level and student-level reports.
 
 Help school staff understand how to use the platform and complete common tasks.
 
+### AI History And Actions
+
+- Save recent generated outputs
+- Copy output
+- Download `.txt`
+- Use notice output as a notification draft after manual review
+
 ## Product Safety Direction
 
 - Keep production source code private
@@ -70,3 +77,4 @@ Help school staff understand how to use the platform and complete common tasks.
 - Never expose environment files
 - Preserve role-based access control
 - Preserve school-level data separation
+- Keep Template AI Mode clearly labelled during the hackathon demo

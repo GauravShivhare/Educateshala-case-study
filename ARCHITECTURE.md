@@ -1,6 +1,6 @@
-# Educatshala Architecture Overview
+# EducateShala Architecture Overview
 
-Educatshala is a school management SaaS platform with role-based dashboards and school-level access separation.
+EducateShala is a school management SaaS platform with role-based dashboards and school-level access separation.
 
 ## Product Type
 
@@ -44,6 +44,8 @@ This public repository only contains:
 - Roadmap
 - Architecture summary
 - Hackathon application material
+- Safe product screenshots
+- Pitch deck
 
 It does not contain:
 
@@ -53,6 +55,8 @@ It does not contain:
 - SMTP credentials
 - Admin passwords
 - Private business logic
+- Database dumps
+- Dependency folders
 
 ## Future AI Architecture Direction
 

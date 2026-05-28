@@ -45,6 +45,27 @@ Google Drive folder containing the Day 4 demo walkthrough video:
 
 https://drive.google.com/drive/folders/13ZZSOKpGRwS6laB7Tr4loYVHHDeyveSZ?usp=drive_link
 
+Do not commit the MP4 directly to GitHub. Keep the public/shareable link here after upload.
+
+## Screenshot Proof
+
+Screenshots are stored in:
+
+```text
+EducateShala_Phase1_Screenshots/
+```
+
+The screenshot set covers:
+
+- Dashboard with AI Assistant sidebar
+- AI Assistant home in Template AI Mode
+- Notice Generator input and output
+- Student Summary output
+- Class Report output
+- Admin Help Chatbot output
+- AI History
+- Copy and Download actions
+
 ## Safety Notes
 
 Do not show:
