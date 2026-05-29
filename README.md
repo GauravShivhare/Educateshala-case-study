@@ -16,9 +16,14 @@ https://github.com/GauravShivhare/Educateshala-case-study
 
 ### Demo Assets: Video + Pitch Deck
 
-Google Drive folder containing the Day 4 demo walkthrough video and pitch deck:
+Public demo assets only:
 
-https://drive.google.com/drive/folders/13ZZSOKpGRwS6laB7Tr4loYVHHDeyveSZ?usp=drive_link
+- Demo video, compressed: https://drive.google.com/file/d/1sEvhGytuzcDDfUXMyP8XNev3HzW7Dmqo/view?usp=drive_link
+- Demo video, full quality: https://drive.google.com/file/d/16tw8rKhrWhgrszudKVmJS-j-W8HgnUG6/view?usp=drive_link
+- Pitch deck PDF: [`pitch-deck/EducateShala_AI-Powered_School_Administration.pdf`](pitch-deck/EducateShala_AI-Powered_School_Administration.pdf)
+- Screenshots: [`EducateShala_Phase1_Screenshots/`](EducateShala_Phase1_Screenshots/)
+
+Do not upload private source code, `.env` files, credentials, database dumps, or real student data to public demo asset links.
 
 ### Important Review Note
 
@@ -218,8 +223,8 @@ More detail is available in [`LOCAL_SETUP.md`](LOCAL_SETUP.md).
 The project can be reviewed using:
 
 1. This GitHub case-study repository
-2. Demo video in the Google Drive folder
-3. Pitch deck in the Google Drive folder
+2. Demo video from the fixed public demo-video link
+3. Pitch deck PDF in this repository
 4. Product screenshots
 5. User flow and local setup documentation
 

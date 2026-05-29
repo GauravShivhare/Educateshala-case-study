@@ -39,13 +39,14 @@ The assistant helps school staff generate notices, student summaries, class repo
 
 The current MVP uses Template AI Mode for reliable demo output without external API keys. Live AI provider support can be added later.
 
-## Demo Video Link
+## Demo Video Links
 
-Google Drive folder containing the Day 4 demo walkthrough video:
+Public demo assets only:
 
-https://drive.google.com/drive/folders/13ZZSOKpGRwS6laB7Tr4loYVHHDeyveSZ?usp=drive_link
+- Demo video, compressed: https://drive.google.com/file/d/1sEvhGytuzcDDfUXMyP8XNev3HzW7Dmqo/view?usp=drive_link
+- Demo video, full quality: https://drive.google.com/file/d/16tw8rKhrWhgrszudKVmJS-j-W8HgnUG6/view?usp=drive_link
 
-Do not commit the MP4 directly to GitHub. Keep the public/shareable link here after upload.
+Do not upload private source code, `.env` files, credentials, database dumps, or real student data to public demo asset links.
 
 ## Screenshot Proof
 
